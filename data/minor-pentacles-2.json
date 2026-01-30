@@ -1,0 +1,23 @@
+{
+    "id": "minor-pentacles-2",
+    "name": {
+        "zh-TW": "錢幣2",
+        "en-US": "Two of Pentacles"
+    },
+    "emoji": " 🪙",
+    "core_meaning": {
+        "zh-TW": "平衡、多工",
+        "en-US": "Balance, multitasking"
+    },
+    "upright_meaning": {
+        "zh-TW": "平衡、多工",
+        "en-US": "Balance, adapting to change, juggling priorities"
+    },
+    "reversed_meaning": {
+        "zh-TW": "失衡、混亂",
+        "en-US": "Imbalance, disorganization, feeling overwhelmed"
+    },
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "two"
+}

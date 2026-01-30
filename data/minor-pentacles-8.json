@@ -1,0 +1,23 @@
+{
+    "id": "minor-pentacles-8",
+    "name": {
+        "zh-TW": "錢幣8",
+        "en-US": "Eight of Pentacles"
+    },
+    "emoji": "🔨",
+    "core_meaning": {
+        "zh-TW": "專注、學習",
+        "en-US": "Focus, learning"
+    },
+    "upright_meaning": {
+        "zh-TW": "專注、學習",
+        "en-US": "Apprenticeship, diligence, mastery, skill development"
+    },
+    "reversed_meaning": {
+        "zh-TW": "缺乏專注、粗心",
+        "en-US": "Lack of focus, mediocrity, shortcuts"
+    },
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "eight"
+}

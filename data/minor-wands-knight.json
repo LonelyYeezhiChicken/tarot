@@ -1,0 +1,23 @@
+{
+    "id": "minor-wands-knight",
+    "name": {
+        "zh-TW": "權杖騎士",
+        "en-US": "Knight of Wands"
+    },
+    "emoji": "🐎🔥",
+    "core_meaning": {
+        "zh-TW": "衝動、行動派",
+        "en-US": "Impulsive, action-oriented"
+    },
+    "upright_meaning": {
+        "zh-TW": "衝動、行動派",
+        "en-US": "Energy, passion, quest"
+    },
+    "reversed_meaning": {
+        "zh-TW": "魯莽、爭執",
+        "en-US": "Rashness, dispute, impatience"
+    },
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "knight"
+}

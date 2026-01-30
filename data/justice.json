@@ -1,0 +1,21 @@
+{
+    "id": "major-11",
+    "name": {
+        "zh-TW": "正義",
+        "en-US": "Justice"
+    },
+    "emoji": "⚖️",
+    "core_meaning": {
+        "zh-TW": "公平、因果、責任",
+        "en-US": "Fairness, cause and effect, responsibility"
+    },
+    "upright_meaning": {
+        "zh-TW": "誠實、平衡、真相",
+        "en-US": "Honesty, balance, truth, law"
+    },
+    "reversed_meaning": {
+        "zh-TW": "不公、偏頗、逃避責任",
+        "en-US": "Injustice, bias, evading responsibility"
+    },
+    "arcana": "major"
+}

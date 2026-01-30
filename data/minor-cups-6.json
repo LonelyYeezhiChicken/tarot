@@ -1,0 +1,23 @@
+{
+    "id": "minor-cups-6",
+    "name": {
+        "zh-TW": "聖杯6",
+        "en-US": "Six of Cups"
+    },
+    "emoji": "🧒👧",
+    "core_meaning": {
+        "zh-TW": "回憶、過去",
+        "en-US": "Memories, past"
+    },
+    "upright_meaning": {
+        "zh-TW": "回憶、過去",
+        "en-US": "Nostalgia, childhood memories, innocence"
+    },
+    "reversed_meaning": {
+        "zh-TW": "活在過去、不願放手",
+        "en-US": "Living in the past, unwillingness to let go, stagnation"
+    },
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "six"
+}

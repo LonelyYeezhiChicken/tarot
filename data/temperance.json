@@ -1,0 +1,21 @@
+{
+    "id": "major-14",
+    "name": {
+        "zh-TW": "節制",
+        "en-US": "Temperance"
+    },
+    "emoji": "🌡️",
+    "core_meaning": {
+        "zh-TW": "平衡、調和、耐心",
+        "en-US": "Balance, moderation, patience"
+    },
+    "upright_meaning": {
+        "zh-TW": "穩定、融合",
+        "en-US": "Stability, harmony, integration"
+    },
+    "reversed_meaning": {
+        "zh-TW": "極端、失衡",
+        "en-US": "Extremes, imbalance, discord"
+    },
+    "arcana": "major"
+}

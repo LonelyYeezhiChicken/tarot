@@ -1,0 +1,23 @@
+{
+    "id": "minor-swords-knight",
+    "name": {
+        "zh-TW": "寶劍騎士",
+        "en-US": "Knight of Swords"
+    },
+    "emoji": "🐎⚔️",
+    "core_meaning": {
+        "zh-TW": "衝動溝通",
+        "en-US": "Impulsive communication"
+    },
+    "upright_meaning": {
+        "zh-TW": "衝動溝通",
+        "en-US": "Ambitious, driven, headstrong, direct"
+    },
+    "reversed_meaning": {
+        "zh-TW": "無謀、具破壞性",
+        "en-US": "Reckless, destructive, tactless"
+    },
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "knight"
+}

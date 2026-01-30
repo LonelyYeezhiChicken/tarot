@@ -1,0 +1,23 @@
+{
+    "id": "minor-swords-8",
+    "name": {
+        "zh-TW": "寶劍8",
+        "en-US": "Eight of Swords"
+    },
+    "emoji": "🕸️",
+    "core_meaning": {
+        "zh-TW": "受困、限制",
+        "en-US": "Trapped, restricted"
+    },
+    "upright_meaning": {
+        "zh-TW": "受困、限制",
+        "en-US": "Restriction, self-imposed limitation, feeling trapped"
+    },
+    "reversed_meaning": {
+        "zh-TW": "解放、新視角",
+        "en-US": "Release, freedom, new perspective"
+    },
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "eight"
+}

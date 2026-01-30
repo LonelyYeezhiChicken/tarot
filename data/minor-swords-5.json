@@ -1,0 +1,23 @@
+{
+    "id": "minor-swords-5",
+    "name": {
+        "zh-TW": "寶劍5",
+        "en-US": "Five of Swords"
+    },
+    "emoji": "🤺敗",
+    "core_meaning": {
+        "zh-TW": "衝突、不公平",
+        "en-US": "Conflict, unfairness"
+    },
+    "upright_meaning": {
+        "zh-TW": "衝突、不公平",
+        "en-US": "Conflict, tension, dishonor, sneakiness"
+    },
+    "reversed_meaning": {
+        "zh-TW": "和解、承認失敗",
+        "en-US": "Reconciliation, acceptance of defeat, communication"
+    },
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "five"
+}

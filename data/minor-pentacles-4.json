@@ -1,0 +1,23 @@
+{
+    "id": "minor-pentacles-4",
+    "name": {
+        "zh-TW": "錢幣4",
+        "en-US": "Four of Pentacles"
+    },
+    "emoji": "🔒",
+    "core_meaning": {
+        "zh-TW": "佔有、保守",
+        "en-US": "Possession, conservatism"
+    },
+    "upright_meaning": {
+        "zh-TW": "佔有、保守",
+        "en-US": "Security, stability, possessiveness, control"
+    },
+    "reversed_meaning": {
+        "zh-TW": "分享、放手",
+        "en-US": "Generosity, releasing control, financial openness"
+    },
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "four"
+}

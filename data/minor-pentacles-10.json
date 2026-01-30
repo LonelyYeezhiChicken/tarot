@@ -1,0 +1,23 @@
+{
+    "id": "minor-pentacles-10",
+    "name": {
+        "zh-TW": "錢幣10",
+        "en-US": "Ten of Pentacles"
+    },
+    "emoji": "🏘️",
+    "core_meaning": {
+        "zh-TW": "長期穩定",
+        "en-US": "Long-term stability"
+    },
+    "upright_meaning": {
+        "zh-TW": "長期穩定",
+        "en-US": "Wealth, family, inheritance, established security"
+    },
+    "reversed_meaning": {
+        "zh-TW": "家庭不和、財產損失",
+        "en-US": "Family disputes, financial loss, instability"
+    },
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "ten"
+}

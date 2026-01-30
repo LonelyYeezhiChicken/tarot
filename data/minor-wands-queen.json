@@ -1,0 +1,23 @@
+{
+    "id": "minor-wands-queen",
+    "name": {
+        "zh-TW": "權杖女王",
+        "en-US": "Queen of Wands"
+    },
+    "emoji": "👸🔥",
+    "core_meaning": {
+        "zh-TW": "自信、魅力",
+        "en-US": "Confident, charismatic"
+    },
+    "upright_meaning": {
+        "zh-TW": "自信、魅力",
+        "en-US": "Confident, independent, passionate, courageous"
+    },
+    "reversed_meaning": {
+        "zh-TW": "善變、控制慾",
+        "en-US": "Fickle, controlling, demanding"
+    },
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "queen"
+}

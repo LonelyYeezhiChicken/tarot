@@ -1,0 +1,213 @@
+:root {
+    --background-color: #1a1a1d;
+    --primary-text-color: #c5c6c7;
+    --secondary-text-color: #8f8f8f;
+    --accent-color: #61dafb;
+    --card-background: #2a2a2e;
+    --card-border-color: #4f4f51;
+    --button-background: #4f4f51;
+    --button-hover-background: #6b6b6e;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    background-color: var(--background-color);
+    color: var(--primary-text-color);
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+}
+
+.app-container {
+    width: 100%;
+    max-width: 1200px;
+    text-align: center;
+}
+
+.app-header h1 {
+    font-weight: 300;
+    font-size: 2.5rem;
+    color: var(--primary-text-color);
+    margin-bottom: 2rem;
+}
+
+.controls {
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.spread-selection label {
+    margin: 0 0.5rem;
+    cursor: pointer;
+}
+
+.button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    background-color: var(--button-background);
+    color: var(--primary-text-color);
+    border: 1px solid var(--card-border-color);
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background-color: var(--button-hover-background);
+}
+
+.button:disabled {
+    cursor: not-allowed;
+    opacity: 0.5;
+}
+
+.reading {
+    min-height: 400px;
+}
+
+.status-area {
+    margin-bottom: 2rem;
+    font-size: 1.2rem;
+    color: var(--secondary-text-color);
+    min-height: 30px;
+}
+
+.card-display-area {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    perspective: 1000px; /* For 3D flip effect */
+}
+
+/* Individual Card Styling */
+.card {
+    width: 150px;
+    height: 250px;
+    position: relative;
+    transform-style: preserve-3d;
+    transition: transform 0.6s;
+    cursor: pointer;
+}
+
+.card.flipped {
+    transform: rotateY(180deg);
+    cursor: default;
+}
+
+.card-face {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.card-face--back {
+    background-color: var(--card-background);
+    border: 2px solid var(--card-border-color);
+    /* Simple pattern for card back */
+    background-image: repeating-linear-gradient(
+        45deg,
+        rgba(255,255,255,0.05),
+        rgba(255,255,255,0.05) 10px,
+        transparent 10px,
+        transparent 20px
+    );
+}
+
+.card-face--front {
+    background-color: var(--card-background);
+    border: 2px solid var(--accent-color);
+    transform: rotateY(180deg);
+    font-size: 1rem;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.card-face--front img {
+    max-width: 90%;
+    max-height: 70%;
+    border-radius: 5px;
+}
+
+.card-face--front.reversed img {
+    transform: rotate(180deg);
+}
+
+.card-narrative {
+    margin-top: 2rem;
+    text-align: left;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    background: var(--card-background);
+    padding: 1.5rem;
+    border-radius: 8px;
+    border: 1px solid var(--card-border-color);
+}
+
+.card-narrative h3 {
+    color: var(--accent-color);
+}
+
+@media (max-width: 600px) {
+    .app-header h1 {
+        font-size: 2rem;
+    }
+
+    .controls {
+        flex-direction: column;
+    }
+
+    .card {
+        width: 100px;
+        height: 167px;
+    }
+}
+
+.card-emoji {
+    font-size: 3rem;
+    text-align: center;
+    margin-bottom: 0.5rem;
+}
+
+.card-name {
+    font-size: 1rem;
+    color: var(--accent-color);
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+}
+
+.spread-summary {
+    margin-top: 2rem;
+    text-align: left;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    background: var(--card-background);
+    padding: 1.5rem;
+    border-radius: 8px;
+    border: 1px solid var(--accent-color);
+}
+
+.spread-summary h3 {
+    color: var(--accent-color);
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.spread-summary p {
+    white-space: pre-wrap; /* Preserve newlines from the summary text */
+}

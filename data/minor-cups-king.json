@@ -1,0 +1,23 @@
+{
+    "id": "minor-cups-king",
+    "name": {
+        "zh-TW": "聖杯國王",
+        "en-US": "King of Cups"
+    },
+    "emoji": "🤴💧",
+    "core_meaning": {
+        "zh-TW": "情緒穩定",
+        "en-US": "Emotional stability"
+    },
+    "upright_meaning": {
+        "zh-TW": "情緒穩定",
+        "en-US": "Emotional control, compassion, balance"
+    },
+    "reversed_meaning": {
+        "zh-TW": "情緒化、逃避現實",
+        "en-US": "Emotional manipulation, moodiness, escapism"
+    },
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "king"
+}

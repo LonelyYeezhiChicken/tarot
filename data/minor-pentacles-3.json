@@ -1,0 +1,23 @@
+{
+    "id": "minor-pentacles-3",
+    "name": {
+        "zh-TW": "錢幣3",
+        "en-US": "Three of Pentacles"
+    },
+    "emoji": "🤝👷",
+    "core_meaning": {
+        "zh-TW": "合作、專業",
+        "en-US": "Collaboration, expertise"
+    },
+    "upright_meaning": {
+        "zh-TW": "合作、專業",
+        "en-US": "Teamwork, collaboration, mastery"
+    },
+    "reversed_meaning": {
+        "zh-TW": "缺乏合作、業餘",
+        "en-US": "Lack of teamwork, amateurish, incompetence"
+    },
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "three"
+}

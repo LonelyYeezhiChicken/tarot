@@ -1,0 +1,23 @@
+{
+    "id": "minor-pentacles-ace",
+    "name": {
+        "zh-TW": "錢幣ACE",
+        "en-US": "Ace of Pentacles"
+    },
+    "emoji": "🪙",
+    "core_meaning": {
+        "zh-TW": "新機會、資源",
+        "en-US": "New opportunity, resources"
+    },
+    "upright_meaning": {
+        "zh-TW": "新機會、資源",
+        "en-US": "New financial opportunity, security, prosperity"
+    },
+    "reversed_meaning": {
+        "zh-TW": "錯失機會、不切實際",
+        "en-US": "Missed opportunities, impracticality, financial insecurity"
+    },
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "ace"
+}

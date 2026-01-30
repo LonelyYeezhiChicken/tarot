@@ -1,0 +1,23 @@
+{
+    "id": "minor-swords-2",
+    "name": {
+        "zh-TW": "寶劍2",
+        "en-US": "Two of Swords"
+    },
+    "emoji": "🙈⚔️",
+    "core_meaning": {
+        "zh-TW": "猶豫、逃避",
+        "en-US": "Hesitation, avoidance"
+    },
+    "upright_meaning": {
+        "zh-TW": "猶豫、逃避",
+        "en-US": "Blocked emotions, truce, stalemate"
+    },
+    "reversed_meaning": {
+        "zh-TW": "睜眼面對、解決",
+        "en-US": "Release, truth revealed, difficult choices"
+    },
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "two"
+}

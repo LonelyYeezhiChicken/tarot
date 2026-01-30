@@ -1,0 +1,23 @@
+{
+    "id": "minor-pentacles-9",
+    "name": {
+        "zh-TW": "錢幣9",
+        "en-US": "Nine of Pentacles"
+    },
+    "emoji": "💎",
+    "core_meaning": {
+        "zh-TW": "獨立、成果",
+        "en-US": "Independence, accomplishment"
+    },
+    "upright_meaning": {
+        "zh-TW": "獨立、成果",
+        "en-US": "Luxury, self-sufficiency, financial independence"
+    },
+    "reversed_meaning": {
+        "zh-TW": "依賴、揮霍",
+        "en-US": "Dependence, extravagance, living beyond means"
+    },
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "nine"
+}

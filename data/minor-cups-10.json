@@ -1,0 +1,23 @@
+{
+    "id": "minor-cups-10",
+    "name": {
+        "zh-TW": "聖杯10",
+        "en-US": "Ten of Cups"
+    },
+    "emoji": "👨‍👩‍👧‍👦💖",
+    "core_meaning": {
+        "zh-TW": "幸福、圓滿",
+        "en-US": "Happiness, fulfillment"
+    },
+    "upright_meaning": {
+        "zh-TW": "幸福、圓滿",
+        "en-US": "Family harmony, emotional fulfillment, lasting joy"
+    },
+    "reversed_meaning": {
+        "zh-TW": "家庭不和、關係破裂",
+        "en-US": "Family discord, broken relationships, unhappiness"
+    },
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "ten"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "major-20",
+    "name": {
+        "zh-TW": "審判",
+        "en-US": "Judgement"
+    },
+    "emoji": "👼",
+    "core_meaning": {
+        "zh-TW": "覺醒、檢視、重生",
+        "en-US": "Awakening, introspection, rebirth"
+    },
+    "upright_meaning": {
+        "zh-TW": "新階段、召喚",
+        "en-US": "New phase, calling, evaluation"
+    },
+    "reversed_meaning": {
+        "zh-TW": "自責、逃避改變",
+        "en-US": "Self-doubt, avoiding change, reluctance"
+    },
+    "arcana": "major"
+}

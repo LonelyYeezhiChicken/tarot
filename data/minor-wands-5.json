@@ -1,0 +1,23 @@
+{
+    "id": "minor-wands-5",
+    "name": {
+        "zh-TW": "權杖5",
+        "en-US": "Five of Wands"
+    },
+    "emoji": "⚔️",
+    "core_meaning": {
+        "zh-TW": "競爭、衝突",
+        "en-US": "Competition, conflict"
+    },
+    "upright_meaning": {
+        "zh-TW": "競爭、衝突",
+        "en-US": "Disagreement, rivalry, struggle"
+    },
+    "reversed_meaning": {
+        "zh-TW": "迴避衝突、內部分歧",
+        "en-US": "Avoiding conflict, internal disagreement, tension"
+    },
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "five"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "major-0",
+    "name": {
+        "zh-TW": "愚者",
+        "en-US": "The Fool"
+    },
+    "emoji": "🤹",
+    "core_meaning": {
+        "zh-TW": "開始、冒險、信任直覺",
+        "en-US": "Beginnings, adventure, trusting intuition"
+    },
+    "upright_meaning": {
+        "zh-TW": "新旅程、自由、可能性",
+        "en-US": "New journey, freedom, possibilities"
+    },
+    "reversed_meaning": {
+        "zh-TW": "魯莽、逃避責任、缺乏準備",
+        "en-US": "Recklessness, irresponsibility, lack of preparation"
+    },
+    "arcana": "major"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "minor-pentacles-7",
+    "name": {
+        "zh-TW": "錢幣7",
+        "en-US": "Seven of Pentacles"
+    },
+    "emoji": "⏳",
+    "core_meaning": {
+        "zh-TW": "等待、評估",
+        "en-US": "Waiting, evaluation"
+    },
+    "upright_meaning": {
+        "zh-TW": "等待、評估",
+        "en-US": "Patience, investment, harvest, assessment"
+    },
+    "reversed_meaning": {
+        "zh-TW": "缺乏耐心、失望",
+        "en-US": "Impatience, disappointment, lack of vision"
+    },
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "seven"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "minor-wands-4",
+    "name": {
+        "zh-TW": "權杖4",
+        "en-US": "Four of Wands"
+    },
+    "emoji": "🏡",
+    "core_meaning": {
+        "zh-TW": "穩定、慶祝",
+        "en-US": "Stability, celebration"
+    },
+    "upright_meaning": {
+        "zh-TW": "穩定、慶祝",
+        "en-US": "Celebration, harmony, home"
+    },
+    "reversed_meaning": {
+        "zh-TW": "缺乏穩定、未完成",
+        "en-US": "Instability, unfinished business, lack of support"
+    },
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "four"
+}

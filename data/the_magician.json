@@ -1,0 +1,21 @@
+{
+    "id": "major-1",
+    "name": {
+        "zh-TW": "魔術師",
+        "en-US": "The Magician"
+    },
+    "emoji": "🎩",
+    "core_meaning": {
+        "zh-TW": "行動力、創造、掌控",
+        "en-US": "Action, creation, mastery"
+    },
+    "upright_meaning": {
+        "zh-TW": "能力齊備、主動出擊",
+        "en-US": "Resourcefulness, inspired action, power"
+    },
+    "reversed_meaning": {
+        "zh-TW": "操控、空談、能量分散",
+        "en-US": "Manipulation, poor planning, untapped talents"
+    },
+    "arcana": "major"
+}

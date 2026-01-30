@@ -1,0 +1,21 @@
+{
+    "id": "major-8",
+    "name": {
+        "zh-TW": "力量",
+        "en-US": "Strength"
+    },
+    "emoji": "🦁",
+    "core_meaning": {
+        "zh-TW": "內在力量、溫柔的堅定",
+        "en-US": "Inner strength, gentle resolve"
+    },
+    "upright_meaning": {
+        "zh-TW": "自信、耐心、包容",
+        "en-US": "Confidence, patience, compassion"
+    },
+    "reversed_meaning": {
+        "zh-TW": "自我懷疑、情緒失衡",
+        "en-US": "Self-doubt, emotional imbalance, weakness"
+    },
+    "arcana": "major"
+}

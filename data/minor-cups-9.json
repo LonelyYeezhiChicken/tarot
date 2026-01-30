@@ -1,0 +1,23 @@
+{
+    "id": "minor-cups-9",
+    "name": {
+        "zh-TW": "聖杯9",
+        "en-US": "Nine of Cups"
+    },
+    "emoji": "🙏",
+    "core_meaning": {
+        "zh-TW": "滿足、願望",
+        "en-US": "Contentment, wishes"
+    },
+    "upright_meaning": {
+        "zh-TW": "滿足、願望",
+        "en-US": "Wishes fulfilled, satisfaction, emotional contentment"
+    },
+    "reversed_meaning": {
+        "zh-TW": "不滿、貪婪",
+        "en-US": "Dissatisfaction, greed, unfulfilled desires"
+    },
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "nine"
+}

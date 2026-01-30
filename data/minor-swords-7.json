@@ -1,0 +1,23 @@
+{
+    "id": "minor-swords-7",
+    "name": {
+        "zh-TW": "寶劍7",
+        "en-US": "Seven of Swords"
+    },
+    "emoji": "🎭",
+    "core_meaning": {
+        "zh-TW": "欺瞞、策略",
+        "en-US": "Deception, strategy"
+    },
+    "upright_meaning": {
+        "zh-TW": "欺瞞、策略",
+        "en-US": "Deception, trickery, strategy, getting away with something"
+    },
+    "reversed_meaning": {
+        "zh-TW": "坦白、良心發現",
+        "en-US": "Coming clean, remorse, revealing secrets"
+    },
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "seven"
+}

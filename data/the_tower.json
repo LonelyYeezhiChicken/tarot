@@ -1,0 +1,21 @@
+{
+    "id": "major-16",
+    "name": {
+        "zh-TW": "高塔",
+        "en-US": "The Tower"
+    },
+    "emoji": "🗼",
+    "core_meaning": {
+        "zh-TW": "崩解、真相、衝擊",
+        "en-US": "Collapse, truth, upheaval"
+    },
+    "upright_meaning": {
+        "zh-TW": "突發變化、覺醒",
+        "en-US": "Sudden change, awakening, destruction"
+    },
+    "reversed_meaning": {
+        "zh-TW": "延遲崩解、內在震盪",
+        "en-US": "Averted disaster, fear of change, internal upheaval"
+    },
+    "arcana": "major"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "major-3",
+    "name": {
+        "zh-TW": "皇后",
+        "en-US": "The Empress"
+    },
+    "emoji": "👑",
+    "core_meaning": {
+        "zh-TW": "滋養、豐盛、關係",
+        "en-US": "Nurturing, abundance, relationships"
+    },
+    "upright_meaning": {
+        "zh-TW": "愛、成長、照顧",
+        "en-US": "Love, growth, care, fertility"
+    },
+    "reversed_meaning": {
+        "zh-TW": "依賴、失衡、過度付出",
+        "en-US": "Dependence, imbalance, overbearing, smothering"
+    },
+    "arcana": "major"
+}

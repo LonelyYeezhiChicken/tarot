@@ -1,0 +1,23 @@
+{
+    "id": "minor-cups-2",
+    "name": {
+        "zh-TW": "聖杯2",
+        "en-US": "Two of Cups"
+    },
+    "emoji": "🤝",
+    "core_meaning": {
+        "zh-TW": "連結、互相",
+        "en-US": "Connection, mutual understanding"
+    },
+    "upright_meaning": {
+        "zh-TW": "連結、互相",
+        "en-US": "Unity, partnership, attraction"
+    },
+    "reversed_meaning": {
+        "zh-TW": "分離、誤解",
+        "en-US": "Separation, misunderstanding, unhealthy relationship"
+    },
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "two"
+}

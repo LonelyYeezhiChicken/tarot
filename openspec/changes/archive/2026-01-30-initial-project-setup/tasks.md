@@ -1,0 +1,25 @@
+- [x] **Scaffold Project Structure:**
+  - [x] Create `public/` directory.
+  - [x] Create `src/` directory.
+  - [x] Create `data/` directory.
+  - [x] Create `assets/` directory.
+- [x] **Develop Core Webpage:**
+  - [x] Create `public/index.html` with basic HTML5 structure.
+  - [x] Link `style.css` and `main.js` in `index.html`.
+  - [x] Add a "Draw Card" button and a card display area in `index.html`.
+- [x] **Implement Basic Styling:**
+  - [x] Create `public/style.css` with minimal styling (e.g., centering content).
+- [x] **Prepare Placeholder Data:**
+  - [x] Create `data/the_fool.json` with example data for The Fool.
+  - [x] Create `data/the_magician.json` with example data for The Magician.
+  - [x] Create `data/the_high_priestess.json` with example data for The High Priestess.
+- [x] **Implement Core JavaScript Logic:**
+  - [x] Create `src/main.js`.
+  - [x] Implement a function in `src/main.js` to fetch and parse card data from JSON.
+  - [x] Implement a function to randomly select one of the placeholder cards.
+  - [x] Implement a function to render the selected card's image, name, and meaning (upright/reversed) into the display area.
+  - [x] Attach event listener to the "Draw Card" button to trigger the drawing and display logic.
+- [x] **Verify Initial Setup:**
+  - [x] Open `public/index.html` in a browser.
+  - [x] Verify the "Draw Card" button is visible.
+  - [x] Verify clicking the button displays one of the placeholder cards with its details.

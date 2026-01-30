@@ -1,0 +1,23 @@
+{
+    "id": "minor-cups-8",
+    "name": {
+        "zh-TW": "聖杯8",
+        "en-US": "Eight of Cups"
+    },
+    "emoji": "🚶‍♂️💧",
+    "core_meaning": {
+        "zh-TW": "離開、不再適合",
+        "en-US": "Leaving, moving on, dissatisfaction"
+    },
+    "upright_meaning": {
+        "zh-TW": "離開、不再適合",
+        "en-US": "Abandonment, withdrawal, seeking truth"
+    },
+    "reversed_meaning": {
+        "zh-TW": "尋找、承諾",
+        "en-US": "Seeking, new commitment, stagnation"
+    },
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "eight"
+}

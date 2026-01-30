@@ -1,0 +1,23 @@
+{
+    "id": "minor-wands-8",
+    "name": {
+        "zh-TW": "權杖8",
+        "en-US": "Eight of Wands"
+    },
+    "emoji": "➡️💨",
+    "core_meaning": {
+        "zh-TW": "快速進展",
+        "en-US": "Rapid progress"
+    },
+    "upright_meaning": {
+        "zh-TW": "快速進展",
+        "en-US": "Speed, action, air travel, swift change"
+    },
+    "reversed_meaning": {
+        "zh-TW": "延遲、停滯",
+        "en-US": "Delays, stagnation, resistance to change"
+    },
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "eight"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "minor-swords-king",
+    "name": {
+        "zh-TW": "寶劍國王",
+        "en-US": "King of Swords"
+    },
+    "emoji": "🤴⚔️",
+    "core_meaning": {
+        "zh-TW": "權威、邏輯",
+        "en-US": "Authority, logic"
+    },
+    "upright_meaning": {
+        "zh-TW": "權威、邏輯",
+        "en-US": "Intellectual power, authority, truth, judgment"
+    },
+    "reversed_meaning": {
+        "zh-TW": "暴君、濫用權力",
+        "en-US": "Tyrannical, abusive power, irrational"
+    },
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "king"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "minor-pentacles-6",
+    "name": {
+        "zh-TW": "錢幣6",
+        "en-US": "Six of Pentacles"
+    },
+    "emoji": "🤲",
+    "core_meaning": {
+        "zh-TW": "給予、回饋",
+        "en-US": "Giving, receiving"
+    },
+    "upright_meaning": {
+        "zh-TW": "給予、回饋",
+        "en-US": "Generosity, charity, sharing, balance"
+    },
+    "reversed_meaning": {
+        "zh-TW": "債務、自私",
+        "en-US": "Debt, selfishness, inequality"
+    },
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "six"
+}

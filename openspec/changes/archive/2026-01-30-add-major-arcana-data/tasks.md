@@ -1,0 +1,34 @@
+- [x] **Create Major Arcana JSON Data:**
+  - [x] For each Major Arcana card, create a JSON file in `data/`, ensuring it includes an `emoji` field and removes any `image` field.
+  - [x] Create JSON file for "The Fool" (if not already present).
+  - [x] Create JSON file for "The Magician" (if not already present).
+  - [x] Create JSON file for "The High Priestess" (if not already present).
+  - [x] Create JSON file for "The Empress".
+  - [x] Create JSON file for "The Emperor".
+  - [x] Create JSON file for "The Hierophant".
+  - [x] Create JSON file for "The Lovers".
+  - [x] Create JSON file for "The Chariot".
+  - [x] Create JSON file for "Strength".
+  - [x] Create JSON file for "The Hermit".
+  - [x] Create JSON file for "Wheel of Fortune".
+  - [x] Create JSON file for "Justice".
+  - [x] Create JSON file for "The Hanged Man".
+  - [x] Create JSON file for "Death".
+  - [x] Create JSON file for "Temperance".
+  - [x] Create JSON file for "The Devil".
+  - [x] Create JSON file for "The Tower".
+  - [x] Create JSON file for "The Star".
+  - [x] Create JSON file for "The Moon".
+  - [x] Create JSON file for "The Sun".
+  - [x] Create JSON file for "Judgement".
+  - [x] Create JSON file for "The World".
+- [x] **Update Main JavaScript:**
+  - [x] Modify `src/main.js` to include all Major Arcana JSON file paths in `CARD_DATA_PATHS`.
+  - [x] Adjust `src/main.js` to render the `emoji` field from card data instead of an `<img>` tag.
+  - [x] Remove any image path adjustment logic from `fetchCardData`.
+- [x] **Remove Obsolete Image Placeholders:**
+  - [x] Delete all Major Arcana placeholder image files from `assets/images/cards/` (if any were created).
+- [x] **Verify Major Arcana Integration:**
+  - [x] Run the application.
+  - [x] Verify that drawing a card can now randomly display any of the 22 Major Arcana cards.
+  - [x] Verify that each card's emoji, name, and meaning (upright/reversed) are displayed correctly.

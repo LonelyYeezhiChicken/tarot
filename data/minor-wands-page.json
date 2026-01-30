@@ -1,0 +1,23 @@
+{
+    "id": "minor-wands-page",
+    "name": {
+        "zh-TW": "權杖PAGE",
+        "en-US": "Page of Wands"
+    },
+    "emoji": "👶🪄",
+    "core_meaning": {
+        "zh-TW": "新點子、學習",
+        "en-US": "New ideas, learning, exploration"
+    },
+    "upright_meaning": {
+        "zh-TW": "新點子、學習",
+        "en-US": "New creative ventures, enthusiastic message, inspiration"
+    },
+    "reversed_meaning": {
+        "zh-TW": "缺乏靈感、壞消息",
+        "en-US": "Lack of inspiration, bad news, delays"
+    },
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "page"
+}

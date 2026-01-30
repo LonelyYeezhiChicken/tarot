@@ -1,0 +1,23 @@
+{
+    "id": "minor-wands-2",
+    "name": {
+        "zh-TW": "權杖2",
+        "en-US": "Two of Wands"
+    },
+    "emoji": "🚶‍♂️➡️",
+    "core_meaning": {
+        "zh-TW": "選擇方向",
+        "en-US": "Choosing a direction"
+    },
+    "upright_meaning": {
+        "zh-TW": "選擇方向",
+        "en-US": "Planning, future focus, discovery"
+    },
+    "reversed_meaning": {
+        "zh-TW": "恐懼未知、優柔寡斷",
+        "en-US": "Fear of the unknown, indecision, lack of planning"
+    },
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "two"
+}

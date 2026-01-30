@@ -1,0 +1,23 @@
+{
+    "id": "minor-cups-4",
+    "name": {
+        "zh-TW": "聖杯4",
+        "en-US": "Four of Cups"
+    },
+    "emoji": "😐",
+    "core_meaning": {
+        "zh-TW": "冷淡、無感",
+        "en-US": "Apathy, indifference"
+    },
+    "upright_meaning": {
+        "zh-TW": "冷淡、無感",
+        "en-US": "Apathy, contemplation, reevaluation"
+    },
+    "reversed_meaning": {
+        "zh-TW": "錯失機會、重新評估",
+        "en-US": "Missed opportunities, renewed interest, deeper introspection"
+    },
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "four"
+}

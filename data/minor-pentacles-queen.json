@@ -1,0 +1,23 @@
+{
+    "id": "minor-pentacles-queen",
+    "name": {
+        "zh-TW": "錢幣女王",
+        "en-US": "Queen of Pentacles"
+    },
+    "emoji": "👸🪙",
+    "core_meaning": {
+        "zh-TW": "照顧、實用",
+        "en-US": "Nurturing, practical"
+    },
+    "upright_meaning": {
+        "zh-TW": "照顧、實用",
+        "en-US": "Nurturing, practical, resourceful, domestic"
+    },
+    "reversed_meaning": {
+        "zh-TW": "過度干預、現實脫節",
+        "en-US": "Overbearing, detached from reality, materialistic"
+    },
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "queen"
+}

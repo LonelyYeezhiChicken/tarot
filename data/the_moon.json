@@ -1,0 +1,21 @@
+{
+    "id": "major-18",
+    "name": {
+        "zh-TW": "月亮",
+        "en-US": "The Moon"
+    },
+    "emoji": "🌙",
+    "core_meaning": {
+        "zh-TW": "迷惘、恐懼、潛意識",
+        "en-US": "Illusion, fear, subconscious"
+    },
+    "upright_meaning": {
+        "zh-TW": "不確定、情緒波動",
+        "en-US": "Uncertainty, emotional fluctuation, dreams"
+    },
+    "reversed_meaning": {
+        "zh-TW": "真相浮現、釐清",
+        "en-US": "Clarification, release of fear, understanding"
+    },
+    "arcana": "major"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "minor-swords-9",
+    "name": {
+        "zh-TW": "寶劍9",
+        "en-US": "Nine of Swords"
+    },
+    "emoji": "😨",
+    "core_meaning": {
+        "zh-TW": "焦慮、恐懼",
+        "en-US": "Anxiety, fear"
+    },
+    "upright_meaning": {
+        "zh-TW": "焦慮、恐懼",
+        "en-US": "Anxiety, worry, nightmares, despair"
+    },
+    "reversed_meaning": {
+        "zh-TW": "希望、克服恐懼",
+        "en-US": "Hope, overcoming fear, release from anxiety"
+    },
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "nine"
+}

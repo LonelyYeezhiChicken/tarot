@@ -1,0 +1,21 @@
+{
+    "id": "major-19",
+    "name": {
+        "zh-TW": "太陽",
+        "en-US": "The Sun"
+    },
+    "emoji": "☀️",
+    "core_meaning": {
+        "zh-TW": "成功、喜悅、清晰",
+        "en-US": "Success, joy, clarity"
+    },
+    "upright_meaning": {
+        "zh-TW": "正能量、成果",
+        "en-US": "Positive energy, achievement, vitality"
+    },
+    "reversed_meaning": {
+        "zh-TW": "過度樂觀、短暫低潮",
+        "en-US": "Over-optimism, temporary blues, delusion"
+    },
+    "arcana": "major"
+}

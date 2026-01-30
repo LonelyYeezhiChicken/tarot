@@ -1,0 +1,21 @@
+{
+    "id": "major-13",
+    "name": {
+        "zh-TW": "死神",
+        "en-US": "Death"
+    },
+    "emoji": "💀",
+    "core_meaning": {
+        "zh-TW": "結束、轉化、重生",
+        "en-US": "Endings, transformation, rebirth"
+    },
+    "upright_meaning": {
+        "zh-TW": "告一段落、重來",
+        "en-US": "Completion, new beginnings, profound change"
+    },
+    "reversed_meaning": {
+        "zh-TW": "抗拒改變、拖延結束",
+        "en-US": "Resistance to change, delaying the inevitable, stagnation"
+    },
+    "arcana": "major"
+}

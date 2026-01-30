@@ -1,0 +1,23 @@
+{
+    "id": "minor-pentacles-knight",
+    "name": {
+        "zh-TW": "錢幣騎士",
+        "en-US": "Knight of Pentacles"
+    },
+    "emoji": "🐎🪙",
+    "core_meaning": {
+        "zh-TW": "踏實前進",
+        "en-US": "Steady progress"
+    },
+    "upright_meaning": {
+        "zh-TW": "踏實前進",
+        "en-US": "Hard work, responsibility, diligence, reliable"
+    },
+    "reversed_meaning": {
+        "zh-TW": "懶惰、停滯",
+        "en-US": "Laziness, stagnation, irresponsibility, boredom"
+    },
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "knight"
+}

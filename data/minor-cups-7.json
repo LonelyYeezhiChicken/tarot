@@ -1,0 +1,23 @@
+{
+    "id": "minor-cups-7",
+    "name": {
+        "zh-TW": "聖杯7",
+        "en-US": "Seven of Cups"
+    },
+    "emoji": "🔮",
+    "core_meaning": {
+        "zh-TW": "幻想、選擇",
+        "en-US": "Illusion, choices"
+    },
+    "upright_meaning": {
+        "zh-TW": "幻想、選擇",
+        "en-US": "Choices, imagination, wishful thinking"
+    },
+    "reversed_meaning": {
+        "zh-TW": "清晰、務實",
+        "en-US": "Clarity, practical decisions, willpower"
+    },
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "seven"
+}

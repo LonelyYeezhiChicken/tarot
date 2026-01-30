@@ -1,0 +1,21 @@
+{
+    "id": "major-2",
+    "name": {
+        "zh-TW": "女祭司",
+        "en-US": "The High Priestess"
+    },
+    "emoji": "🧘‍♀️",
+    "core_meaning": {
+        "zh-TW": "直覺、潛意識、秘密",
+        "en-US": "Intuition, subconscious, secrets"
+    },
+    "upright_meaning": {
+        "zh-TW": "內在智慧、靜觀其變",
+        "en-US": "Inner wisdom, contemplation, mystery"
+    },
+    "reversed_meaning": {
+        "zh-TW": "忽略直覺、資訊不透明",
+        "en-US": "Ignoring intuition, hidden information, suppressed feelings"
+    },
+    "arcana": "major"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "minor-cups-3",
+    "name": {
+        "zh-TW": "聖杯3",
+        "en-US": "Three of Cups"
+    },
+    "emoji": "🥂",
+    "core_meaning": {
+        "zh-TW": "慶祝、友情",
+        "en-US": "Celebration, friendship"
+    },
+    "upright_meaning": {
+        "zh-TW": "慶祝、友情",
+        "en-US": "Celebration, friendship, community"
+    },
+    "reversed_meaning": {
+        "zh-TW": "八卦、過度放縱",
+        "en-US": "Gossip, overindulgence, isolation"
+    },
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "three"
+}

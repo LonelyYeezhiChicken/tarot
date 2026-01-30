@@ -1,0 +1,21 @@
+{
+    "id": "major-7",
+    "name": {
+        "zh-TW": "戰車",
+        "en-US": "The Chariot"
+    },
+    "emoji": " रथ",
+    "core_meaning": {
+        "zh-TW": "意志、前進、勝利",
+        "en-US": "Willpower, progress, victory"
+    },
+    "upright_meaning": {
+        "zh-TW": "掌控方向、突破阻礙",
+        "en-US": "Control, triumph, assertion"
+    },
+    "reversed_meaning": {
+        "zh-TW": "失控、急躁、方向混亂",
+        "en-US": "Lack of control, haste, scattered direction"
+    },
+    "arcana": "major"
+}

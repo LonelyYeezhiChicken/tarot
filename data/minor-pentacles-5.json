@@ -1,0 +1,23 @@
+{
+    "id": "minor-pentacles-5",
+    "name": {
+        "zh-TW": "錢幣5",
+        "en-US": "Five of Pentacles"
+    },
+    "emoji": "🥶",
+    "core_meaning": {
+        "zh-TW": "匱乏、困境",
+        "en-US": "Lack, hardship"
+    },
+    "upright_meaning": {
+        "zh-TW": "匱乏、困境",
+        "en-US": "Hardship, poverty, abandonment, isolation"
+    },
+    "reversed_meaning": {
+        "zh-TW": "克服困境、尋求幫助",
+        "en-US": "Overcoming adversity, spiritual poverty, new opportunities"
+    },
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "five"
+}

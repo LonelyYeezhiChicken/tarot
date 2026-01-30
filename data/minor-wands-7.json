@@ -1,0 +1,23 @@
+{
+    "id": "minor-wands-7",
+    "name": {
+        "zh-TW": "權杖7",
+        "en-US": "Seven of Wands"
+    },
+    "emoji": "🤺",
+    "core_meaning": {
+        "zh-TW": "防守立場",
+        "en-US": "Defensive stand"
+    },
+    "upright_meaning": {
+        "zh-TW": "防守立場",
+        "en-US": "Challenge, perseverance, defense"
+    },
+    "reversed_meaning": {
+        "zh-TW": "投降、膽怯",
+        "en-US": "Giving in, cowardice, overwhelmed"
+    },
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "seven"
+}

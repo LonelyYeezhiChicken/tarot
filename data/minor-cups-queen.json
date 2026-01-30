@@ -1,0 +1,23 @@
+{
+    "id": "minor-cups-queen",
+    "name": {
+        "zh-TW": "聖杯女王",
+        "en-US": "Queen of Cups"
+    },
+    "emoji": "👸💧",
+    "core_meaning": {
+        "zh-TW": "同理、感受力",
+        "en-US": "Empathy, sensitivity"
+    },
+    "upright_meaning": {
+        "zh-TW": "同理、感受力",
+        "en-US": "Compassionate, intuitive, artistic, nurturing"
+    },
+    "reversed_meaning": {
+        "zh-TW": "情緒化、不穩定",
+        "en-US": "Emotional immaturity, instability, dependence"
+    },
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "queen"
+}

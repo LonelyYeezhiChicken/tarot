@@ -1,0 +1,23 @@
+{
+    "id": "minor-swords-page",
+    "name": {
+        "zh-TW": "寶劍PAGE",
+        "en-US": "Page of Swords"
+    },
+    "emoji": "👶⚔️",
+    "core_meaning": {
+        "zh-TW": "好奇、警覺",
+        "en-US": "Curiosity, alertness"
+    },
+    "upright_meaning": {
+        "zh-TW": "好奇、警覺",
+        "en-US": "New ideas, curiosity, truth-seeking, direct communication"
+    },
+    "reversed_meaning": {
+        "zh-TW": "謠言、口舌之爭",
+        "en-US": "Gossip, arguments, destructive communication"
+    },
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "page"
+}

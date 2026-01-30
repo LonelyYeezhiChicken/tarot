@@ -1,0 +1,70 @@
+- [x] **Create Minor Arcana JSON Data (Wands):**
+  - [x] Create JSON file for "Wands Ace".
+  - [x] Create JSON file for "Wands 2".
+  - [x] Create JSON file for "Wands 3".
+  - [x] Create JSON file for "Wands 4".
+  - [x] Create JSON file for "Wands 5".
+  - [x] Create JSON file for "Wands 6".
+  - [x] Create JSON file for "Wands 7".
+  - [x] Create JSON file for "Wands 8".
+  - [x] Create JSON file for "Wands 9".
+  - [x] Create JSON file for "Wands 10".
+  - [x] Create JSON file for "Wands Page".
+  - [x] Create JSON file for "Wands Knight".
+  - [x] Create JSON file for "Wands Queen".
+  - [x] Create JSON file for "Wands King".
+- [x] **Create Minor Arcana JSON Data (Cups):**
+  - [x] Create JSON file for "Cups Ace".
+  - [x] Create JSON file for "Cups 2".
+  - [x] Create JSON file for "Cups 3".
+  - [x] Create JSON file for "Cups 4".
+  - [x] Create JSON file for "Cups 5".
+  - [x] Create JSON file for "Cups 6".
+  - [x] Create JSON file for "Cups 7".
+  - [x] Create JSON file for "Cups 8".
+  - [x] Create JSON file for "Cups 9".
+  - [x] Create JSON file for "Cups 10".
+  - [x] Create JSON file for "Cups Page".
+  - [x] Create JSON file for "Cups Knight".
+  - [x] Create JSON file for "Cups Queen".
+  - [x] Create JSON file for "Cups King".
+- [x] **Create Minor Arcana JSON Data (Swords):**
+  - [x] Create JSON file for "Swords Ace".
+  - [x] Create JSON file for "Swords 2".
+  - [x] Create JSON file for "Swords 3".
+  - [x] Create JSON file for "Swords 4".
+  - [x] Create JSON file for "Swords 5".
+  - [x] Create JSON file for "Swords 6".
+  - [x] Create JSON file for "Swords 7".
+  - [x] Create JSON file for "Swords 8".
+  - [x] Create JSON file for "Swords 9".
+  - [x] Create JSON file for "Swords 10".
+  - [x] Create JSON file for "Swords Page".
+  - [x] Create JSON file for "Swords Knight".
+  - [x] Create JSON file for "Swords Queen".
+  - [x] Create JSON file for "Swords King".
+- [x] **Create Minor Arcana JSON Data (Pentacles):**
+  - [x] Create JSON file for "Pentacles Ace".
+  - [x] Create JSON file for "Pentacles 2".
+  - [x] Create JSON file for "Pentacles 3".
+  - [x] Create JSON file for "Pentacles 4".
+  - [x] Create JSON file for "Pentacles 5".
+  - [x] Create JSON file for "Pentacles 6".
+  - [x] Create JSON file for "Pentacles 7".
+  - [x] Create JSON file for "Pentacles 8".
+  - [x] Create JSON file for "Pentacles 9".
+  - [x] Create JSON file for "Pentacles 10".
+  - [x] Create JSON file for "Pentacles Page".
+  - [x] Create JSON file for "Pentacles Knight".
+  - [x] Create JSON file for "Pentacles Queen".
+  - [x] Create JSON file for "Pentacles King".
+- [x] **Update Main JavaScript:**
+  - [x] Modify `src/main.js` to include all Minor Arcana JSON file paths in `CARD_DATA_PATHS`.
+  - [x] Adjust `src/main.js` to render the `emoji` field from card data instead of an `<img>` tag.
+  - [x] Remove any image path adjustment logic from `fetchCardData`.
+- [x] **Remove Obsolete Image Placeholders:**
+  - [x] Delete all Major Arcana placeholder image files from `assets/images/cards/` (if any were created).
+- [x] **Verify Minor Arcana Integration:**
+  - [x] Run the application.
+  - [x] Verify that drawing a card can now randomly display any of the 78 Tarot cards (Major and Minor Arcana).
+  - [x] Verify that each card's emoji, name, and meaning (upright/reversed) are displayed correctly.

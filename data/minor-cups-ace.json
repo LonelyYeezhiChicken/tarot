@@ -1,0 +1,23 @@
+{
+    "id": "minor-cups-ace",
+    "name": {
+        "zh-TW": "聖杯ACE",
+        "en-US": "Ace of Cups"
+    },
+    "emoji": "💧",
+    "core_meaning": {
+        "zh-TW": "新感情",
+        "en-US": "New emotions"
+    },
+    "upright_meaning": {
+        "zh-TW": "新感情",
+        "en-US": "New feelings, emotional beginnings, compassion"
+    },
+    "reversed_meaning": {
+        "zh-TW": "情感阻礙、空虛",
+        "en-US": "Blocked emotions, emptiness, creative drought"
+    },
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "ace"
+}

@@ -1,0 +1,21 @@
+{
+    "id": "major-17",
+    "name": {
+        "zh-TW": "星星",
+        "en-US": "The Star"
+    },
+    "emoji": "⭐",
+    "core_meaning": {
+        "zh-TW": "希望、療癒、信念",
+        "en-US": "Hope, healing, faith"
+    },
+    "upright_meaning": {
+        "zh-TW": "平靜、願景",
+        "en-US": "Serenity, inspiration, renewed hope"
+    },
+    "reversed_meaning": {
+        "zh-TW": "失望、信心不足",
+        "en-US": "Disappointment, lack of faith, hopelessness"
+    },
+    "arcana": "major"
+}

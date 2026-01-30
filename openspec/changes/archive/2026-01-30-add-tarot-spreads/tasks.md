@@ -1,0 +1,19 @@
+- [x] **Define Spread Data Structures:**
+  - [x] Define JSON structure for "Three-Card Spread".
+  - [x] Define JSON structure for "Five-Card Spread".
+- [x] **Create Spread JSON Data:**
+  - [x] Create `data/spreads/three-card-spread.json` with its definition.
+  - [x] Create `data/spreads/five-card-spread.json` with its definition.
+- [x] **Update Documentation:**
+  - [x] Modify `docs/data-structure.md` to include documentation for the new spread data structures.
+- [x] **Modify User Interface:**
+  - [x] Add controls (e.g., radio buttons, dropdown) to `public/index.html` for selecting the desired spread (single card, three-card, five-card).
+  - [x] Adjust `public/style.css` for new UI elements.
+- [x] **Implement Spread Logic:**
+  - [x] Modify `src/main.js` to handle spread selection.
+  - [x] Implement functions to draw the correct number of cards for each selected spread.
+  - [x] Adjust `renderCard` or create new rendering functions to display cards according to the chosen spread's positions and their meanings.
+- [x] **Verify Spread Integration:**
+  - [x] Run the application.
+  - [x] Verify selection of "Three-Card Spread" draws and displays 3 cards with correct position meanings.
+  - [x] Verify selection of "Five-Card Spread" draws and displays 5 cards with correct position meanings.

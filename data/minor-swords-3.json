@@ -1,0 +1,23 @@
+{
+    "id": "minor-swords-3",
+    "name": {
+        "zh-TW": "寶劍3",
+        "en-US": "Three of Swords"
+    },
+    "emoji": "💔",
+    "core_meaning": {
+        "zh-TW": "心痛、分離",
+        "en-US": "Heartbreak, separation"
+    },
+    "upright_meaning": {
+        "zh-TW": "心痛、分離",
+        "en-US": "Heartbreak, sorrow, grief, separation"
+    },
+    "reversed_meaning": {
+        "zh-TW": "復原、寬恕",
+        "en-US": "Recovery, forgiveness, reconciliation"
+    },
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "three"
+}

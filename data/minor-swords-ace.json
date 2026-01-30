@@ -1,0 +1,23 @@
+{
+    "id": "minor-swords-ace",
+    "name": {
+        "zh-TW": "寶劍ACE",
+        "en-US": "Ace of Swords"
+    },
+    "emoji": "🗡️",
+    "core_meaning": {
+        "zh-TW": "真相、決斷",
+        "en-US": "Truth, decision"
+    },
+    "upright_meaning": {
+        "zh-TW": "真相、決斷",
+        "en-US": "Clarity, breakthrough, new ideas"
+    },
+    "reversed_meaning": {
+        "zh-TW": "混亂、破壞",
+        "en-US": "Confusion, destructive power, injustice"
+    },
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "ace"
+}

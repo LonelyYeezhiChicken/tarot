@@ -1,0 +1,23 @@
+{
+    "id": "minor-swords-queen",
+    "name": {
+        "zh-TW": "寶劍女王",
+        "en-US": "Queen of Swords"
+    },
+    "emoji": "👸⚔️",
+    "core_meaning": {
+        "zh-TW": "理性、誠實",
+        "en-US": "Rational, honest"
+    },
+    "upright_meaning": {
+        "zh-TW": "理性、誠實",
+        "en-US": "Sharp-witted, independent, discerning, honest"
+    },
+    "reversed_meaning": {
+        "zh-TW": "冷酷、尖酸刻薄",
+        "en-US": "Cold-hearted, cruel, biased, sarcastic"
+    },
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "queen"
+}

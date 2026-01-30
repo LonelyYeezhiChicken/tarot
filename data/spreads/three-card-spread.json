@@ -1,0 +1,37 @@
+{
+    "id": "three-card-spread",
+    "name": {
+        "zh-TW": "三張牌牌陣",
+        "en-US": "Three-Card Spread"
+    },
+    "purpose": {
+        "zh-TW": "快速、聚焦、單一問題",
+        "en-US": "Quick, focused, single question"
+    },
+    "positions": [
+        {
+            "id": 1,
+            "meaning": {
+                "zh-TW": "過去 / 起因",
+                "en-US": "Past / Cause"
+            },
+            "keywords": "過去、起因、根源"
+        },
+        {
+            "id": 2,
+            "meaning": {
+                "zh-TW": "現在 / 核心狀態",
+                "en-US": "Present / Core State"
+            },
+            "keywords": "現在、狀況、核心"
+        },
+        {
+            "id": 3,
+            "meaning": {
+                "zh-TW": "未來 / 走向",
+                "en-US": "Future / Outcome"
+            },
+            "keywords": "未來、結果、走向"
+        }
+    ]
+}

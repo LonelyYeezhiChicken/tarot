@@ -1,0 +1,21 @@
+{
+    "id": "major-4",
+    "name": {
+        "zh-TW": "皇帝",
+        "en-US": "The Emperor"
+    },
+    "emoji": "🏛️",
+    "core_meaning": {
+        "zh-TW": "秩序、權威、結構",
+        "en-US": "Order, authority, structure"
+    },
+    "upright_meaning": {
+        "zh-TW": "穩定、領導、界線",
+        "en-US": "Stability, leadership, boundaries"
+    },
+    "reversed_meaning": {
+        "zh-TW": "控制慾、僵化、權力失衡",
+        "en-US": "Control freak, rigidity, power imbalance"
+    },
+    "arcana": "major"
+}

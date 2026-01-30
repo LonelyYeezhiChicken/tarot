@@ -1,0 +1,21 @@
+{
+    "id": "major-6",
+    "name": {
+        "zh-TW": "戀人",
+        "en-US": "The Lovers"
+    },
+    "emoji": "❤️",
+    "core_meaning": {
+        "zh-TW": "選擇、關係、價值觀",
+        "en-US": "Choice, relationships, values"
+    },
+    "upright_meaning": {
+        "zh-TW": "連結、和諧、重要抉擇",
+        "en-US": "Connection, harmony, important choice"
+    },
+    "reversed_meaning": {
+        "zh-TW": "分歧、誘惑、逃避承諾",
+        "en-US": "Discord, temptation, avoiding commitment"
+    },
+    "arcana": "major"
+}

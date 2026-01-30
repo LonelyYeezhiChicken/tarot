@@ -1,0 +1,23 @@
+{
+    "id": "minor-cups-page",
+    "name": {
+        "zh-TW": "聖杯PAGE",
+        "en-US": "Page of Cups"
+    },
+    "emoji": "👶💧",
+    "core_meaning": {
+        "zh-TW": "情感訊息",
+        "en-US": "Emotional message, intuition"
+    },
+    "upright_meaning": {
+        "zh-TW": "情感訊息",
+        "en-US": "New emotional experiences, intuitive messages, sensitive"
+    },
+    "reversed_meaning": {
+        "zh-TW": "情感不成熟、欺騙",
+        "en-US": "Emotional immaturity, deception, hidden emotions"
+    },
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "page"
+}

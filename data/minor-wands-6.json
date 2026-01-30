@@ -1,0 +1,23 @@
+{
+    "id": "minor-wands-6",
+    "name": {
+        "zh-TW": "權杖6",
+        "en-US": "Six of Wands"
+    },
+    "emoji": "🏆",
+    "core_meaning": {
+        "zh-TW": "勝利、肯定",
+        "en-US": "Victory, recognition"
+    },
+    "upright_meaning": {
+        "zh-TW": "勝利、肯定",
+        "en-US": "Success, public recognition, progress"
+    },
+    "reversed_meaning": {
+        "zh-TW": "自滿、失敗",
+        "en-US": "Arrogance, failure, delayed success"
+    },
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "six"
+}

@@ -1,0 +1,23 @@
+{
+    "id": "minor-swords-10",
+    "name": {
+        "zh-TW": "寶劍10",
+        "en-US": "Ten of Swords"
+    },
+    "emoji": "☠️",
+    "core_meaning": {
+        "zh-TW": "結束、崩潰",
+        "en-US": "Ending, collapse"
+    },
+    "upright_meaning": {
+        "zh-TW": "結束、崩潰",
+        "en-US": "Ruin, rock bottom, irreversible end"
+    },
+    "reversed_meaning": {
+        "zh-TW": "復原、新開始",
+        "en-US": "Recovery, new beginning, avoiding disaster"
+    },
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "ten"
+}

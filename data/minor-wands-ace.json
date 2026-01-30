@@ -1,0 +1,23 @@
+{
+    "id": "minor-wands-ace",
+    "name": {
+        "zh-TW": "權杖ACE",
+        "en-US": "Ace of Wands"
+    },
+    "emoji": "✨",
+    "core_meaning": {
+        "zh-TW": "新動力、靈感",
+        "en-US": "New beginnings, inspiration, potential"
+    },
+    "upright_meaning": {
+        "zh-TW": "新動力、靈感",
+        "en-US": "New creative impulse, enthusiasm, spark"
+    },
+    "reversed_meaning": {
+        "zh-TW": "延遲、阻礙",
+        "en-US": "Delays, obstacles, lack of motivation"
+    },
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "ace"
+}

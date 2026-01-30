@@ -1,0 +1,23 @@
+{
+    "id": "minor-wands-king",
+    "name": {
+        "zh-TW": "權杖國王",
+        "en-US": "King of Wands"
+    },
+    "emoji": "🤴🔥",
+    "core_meaning": {
+        "zh-TW": "遠見、領導",
+        "en-US": "Vision, leadership"
+    },
+    "upright_meaning": {
+        "zh-TW": "遠見、領導",
+        "en-US": "Natural-born leader, visionary, entrepreneurial"
+    },
+    "reversed_meaning": {
+        "zh-TW": "獨裁、缺乏熱情",
+        "en-US": "Tyrannical, ruthless, lacking enthusiasm"
+    },
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "king"
+}

@@ -1,0 +1,53 @@
+{
+    "id": "five-card-spread",
+    "name": {
+        "zh-TW": "五張牌牌陣",
+        "en-US": "Five-Card Spread"
+    },
+    "purpose": {
+        "zh-TW": "分析型、拆問題、找解法",
+        "en-US": "Analytical, problem-solving"
+    },
+    "positions": [
+        {
+            "id": 1,
+            "meaning": {
+                "zh-TW": "現況",
+                "en-US": "Current Situation"
+            },
+            "keywords": "現況、問題點"
+        },
+        {
+            "id": 2,
+            "meaning": {
+                "zh-TW": "阻礙 / 問題",
+                "en-US": "Obstacle / Challenge"
+            },
+            "keywords": "阻礙、困難、挑戰"
+        },
+        {
+            "id": 3,
+            "meaning": {
+                "zh-TW": "潛在原因（你沒看到的）",
+                "en-US": "Underlying Cause (Unseen)"
+            },
+            "keywords": "潛在、深層、未見"
+        },
+        {
+            "id": 4,
+            "meaning": {
+                "zh-TW": "建議行動",
+                "en-US": "Recommended Action"
+            },
+            "keywords": "建議、行動、對策"
+        },
+        {
+            "id": 5,
+            "meaning": {
+                "zh-TW": "結果 / 發展",
+                "en-US": "Outcome / Development"
+            },
+            "keywords": "結果、發展、最終"
+        }
+    ]
+}

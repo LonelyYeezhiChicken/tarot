@@ -1,0 +1,23 @@
+{
+    "id": "minor-pentacles-king",
+    "name": {
+        "zh-TW": "錢幣國王",
+        "en-US": "King of Pentacles"
+    },
+    "emoji": "🤴🪙",
+    "core_meaning": {
+        "zh-TW": "財務穩定",
+        "en-US": "Financial stability"
+    },
+    "upright_meaning": {
+        "zh-TW": "財務穩定",
+        "en-US": "Financial security, abundance, reliable, ambitious"
+    },
+    "reversed_meaning": {
+        "zh-TW": "貪婪、不安全感",
+        "en-US": "Greed, insecurity, materialistic"
+    },
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "king"
+}

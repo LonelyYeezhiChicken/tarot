@@ -1,0 +1,23 @@
+{
+    "id": "minor-swords-4",
+    "name": {
+        "zh-TW": "寶劍4",
+        "en-US": "Four of Swords"
+    },
+    "emoji": "🛌",
+    "core_meaning": {
+        "zh-TW": "休息、恢復",
+        "en-US": "Rest, recovery"
+    },
+    "upright_meaning": {
+        "zh-TW": "休息、恢復",
+        "en-US": "Rest, contemplation, recuperation, retreat"
+    },
+    "reversed_meaning": {
+        "zh-TW": "壓力、重新進入",
+        "en-US": "Restlessness, fear of change, re-entering society"
+    },
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "four"
+}

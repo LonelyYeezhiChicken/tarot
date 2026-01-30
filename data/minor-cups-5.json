@@ -1,0 +1,23 @@
+{
+    "id": "minor-cups-5",
+    "name": {
+        "zh-TW": "聖杯5",
+        "en-US": "Five of Cups"
+    },
+    "emoji": "💔💧",
+    "core_meaning": {
+        "zh-TW": "失落、悲傷",
+        "en-US": "Loss, grief"
+    },
+    "upright_meaning": {
+        "zh-TW": "失落、悲傷",
+        "en-US": "Loss, regret, disappointment"
+    },
+    "reversed_meaning": {
+        "zh-TW": "接受、釋放悲傷",
+        "en-US": "Acceptance, releasing grief, finding peace"
+    },
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "five"
+}

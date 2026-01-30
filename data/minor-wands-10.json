@@ -1,0 +1,23 @@
+{
+    "id": "minor-wands-10",
+    "name": {
+        "zh-TW": "權杖10",
+        "en-US": "Ten of Wands"
+    },
+    "emoji": "😫",
+    "core_meaning": {
+        "zh-TW": "負擔、壓力",
+        "en-US": "Burden, pressure"
+    },
+    "upright_meaning": {
+        "zh-TW": "負擔、壓力",
+        "en-US": "Overburdened, responsibility, struggle"
+    },
+    "reversed_meaning": {
+        "zh-TW": "釋放、尋求幫助",
+        "en-US": "Releasing burden, seeking help, relief"
+    },
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "ten"
+}

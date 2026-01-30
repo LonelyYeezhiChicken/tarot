@@ -1,0 +1,21 @@
+{
+    "id": "major-5",
+    "name": {
+        "zh-TW": "教皇",
+        "en-US": "The Hierophant"
+    },
+    "emoji": "✝️",
+    "core_meaning": {
+        "zh-TW": "傳統、制度、信念",
+        "en-US": "Tradition, institutions, belief"
+    },
+    "upright_meaning": {
+        "zh-TW": "學習、指導、遵循規則",
+        "en-US": "Learning, guidance, conformity, spiritual wisdom"
+    },
+    "reversed_meaning": {
+        "zh-TW": "反叛、僵化信仰",
+        "en-US": "Rebellion, rigidity, challenging the status quo"
+    },
+    "arcana": "major"
+}

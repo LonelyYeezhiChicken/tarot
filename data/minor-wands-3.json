@@ -1,0 +1,23 @@
+{
+    "id": "minor-wands-3",
+    "name": {
+        "zh-TW": "權杖3",
+        "en-US": "Three of Wands"
+    },
+    "emoji": "🚢",
+    "core_meaning": {
+        "zh-TW": "擴展、等待成果",
+        "en-US": "Expansion, waiting for results"
+    },
+    "upright_meaning": {
+        "zh-TW": "擴展、等待成果",
+        "en-US": "Future plans, overseas ventures, expansion"
+    },
+    "reversed_meaning": {
+        "zh-TW": "延遲、失望",
+        "en-US": "Delays, disappointment, lack of foresight"
+    },
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "three"
+}

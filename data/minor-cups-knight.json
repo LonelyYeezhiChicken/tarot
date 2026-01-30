@@ -1,0 +1,23 @@
+{
+    "id": "minor-cups-knight",
+    "name": {
+        "zh-TW": "聖杯騎士",
+        "en-US": "Knight of Cups"
+    },
+    "emoji": "🐎💧",
+    "core_meaning": {
+        "zh-TW": "浪漫、追求",
+        "en-US": "Romantic, pursuit"
+    },
+    "upright_meaning": {
+        "zh-TW": "浪漫、追求",
+        "en-US": "Romantic, charming, artistic, emotional proposal"
+    },
+    "reversed_meaning": {
+        "zh-TW": "不切實際、欺騙",
+        "en-US": "Unrealistic, deceptive, moody"
+    },
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "knight"
+}

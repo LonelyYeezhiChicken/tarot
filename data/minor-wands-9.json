@@ -1,0 +1,23 @@
+{
+    "id": "minor-wands-9",
+    "name": {
+        "zh-TW": "權杖9",
+        "en-US": "Nine of Wands"
+    },
+    "emoji": "💪🛡️",
+    "core_meaning": {
+        "zh-TW": "堅持到最後",
+        "en-US": "Perseverance, resilience"
+    },
+    "upright_meaning": {
+        "zh-TW": "堅持到最後",
+        "en-US": "Resilience, courage, persistence"
+    },
+    "reversed_meaning": {
+        "zh-TW": "疲憊、缺乏毅力",
+        "en-US": "Fatigue, lack of stamina, giving up"
+    },
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "nine"
+}

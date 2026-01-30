@@ -1,0 +1,21 @@
+{
+    "id": "major-12",
+    "name": {
+        "zh-TW": "吊人",
+        "en-US": "The Hanged Man"
+    },
+    "emoji": "🪝",
+    "core_meaning": {
+        "zh-TW": "暫停、犧牲、換角度",
+        "en-US": "Suspension, sacrifice, new perspective"
+    },
+    "upright_meaning": {
+        "zh-TW": "放下、新視角",
+        "en-US": "Letting go, new perspective, surrender"
+    },
+    "reversed_meaning": {
+        "zh-TW": "停滯、無謂犧牲",
+        "en-US": "Stagnation, pointless sacrifice, resistance"
+    },
+    "arcana": "major"
+}

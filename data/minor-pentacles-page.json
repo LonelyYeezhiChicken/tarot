@@ -1,0 +1,23 @@
+{
+    "id": "minor-pentacles-page",
+    "name": {
+        "zh-TW": "錢幣PAGE",
+        "en-US": "Page of Pentacles"
+    },
+    "emoji": "👶🪙",
+    "core_meaning": {
+        "zh-TW": "實際學習",
+        "en-US": "Practical learning"
+    },
+    "upright_meaning": {
+        "zh-TW": "實際學習",
+        "en-US": "New career path, financial opportunity, practical skills"
+    },
+    "reversed_meaning": {
+        "zh-TW": "缺乏遠見、懶惰",
+        "en-US": "Lack of foresight, laziness, missed opportunities"
+    },
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "page"
+}

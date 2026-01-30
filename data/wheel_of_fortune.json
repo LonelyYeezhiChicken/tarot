@@ -1,0 +1,21 @@
+{
+    "id": "major-10",
+    "name": {
+        "zh-TW": "命運之輪",
+        "en-US": "Wheel of Fortune"
+    },
+    "emoji": "🎡",
+    "core_meaning": {
+        "zh-TW": "變化、循環、時機",
+        "en-US": "Change, cycles, opportunity"
+    },
+    "upright_meaning": {
+        "zh-TW": "轉機、幸運、流動",
+        "en-US": "Turning point, good luck, movement, destiny"
+    },
+    "reversed_meaning": {
+        "zh-TW": "停滯、抗拒改變",
+        "en-US": "Stagnation, resistance to change, bad luck"
+    },
+    "arcana": "major"
+}

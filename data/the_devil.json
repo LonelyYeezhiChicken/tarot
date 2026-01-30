@@ -1,0 +1,21 @@
+{
+    "id": "major-15",
+    "name": {
+        "zh-TW": "惡魔",
+        "en-US": "The Devil"
+    },
+    "emoji": "😈",
+    "core_meaning": {
+        "zh-TW": "執著、束縛、慾望",
+        "en-US": "Obsession, bondage, desire"
+    },
+    "upright_meaning": {
+        "zh-TW": "依賴、上癮、恐懼",
+        "en-US": "Addiction, materialism, restriction"
+    },
+    "reversed_meaning": {
+        "zh-TW": "解放、覺醒",
+        "en-US": "Freedom, enlightenment, detachment"
+    },
+    "arcana": "major"
+}

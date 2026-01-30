@@ -1,0 +1,23 @@
+{
+    "id": "minor-swords-6",
+    "name": {
+        "zh-TW": "寶劍6",
+        "en-US": "Six of Swords"
+    },
+    "emoji": "⛵️",
+    "core_meaning": {
+        "zh-TW": "轉移、離開",
+        "en-US": "Transition, departure"
+    },
+    "upright_meaning": {
+        "zh-TW": "轉移、離開",
+        "en-US": "Transition, moving on, travel"
+    },
+    "reversed_meaning": {
+        "zh-TW": "無法前進、抗拒改變",
+        "en-US": "Stuck in the past, resistance to change, difficult journey"
+    },
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "six"
+}

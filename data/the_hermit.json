@@ -1,0 +1,21 @@
+{
+    "id": "major-9",
+    "name": {
+        "zh-TW": "隱者",
+        "en-US": "The Hermit"
+    },
+    "emoji": "👴",
+    "core_meaning": {
+        "zh-TW": "內省、獨處、尋找答案",
+        "en-US": "Introspection, solitude, seeking answers"
+    },
+    "upright_meaning": {
+        "zh-TW": "自我探索、智慧",
+        "en-US": "Self-discovery, wisdom, guidance"
+    },
+    "reversed_meaning": {
+        "zh-TW": "孤立、逃避現實",
+        "en-US": "Isolation, withdrawal, avoiding reality"
+    },
+    "arcana": "major"
+}
