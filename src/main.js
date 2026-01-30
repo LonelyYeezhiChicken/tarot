@@ -219,8 +219,11 @@ function handleCardClick(event) {
     const drawnCard = currentReading.drawnCards[index];
     if (!drawnCard) return;
 
+    const cardInner = cardElement.querySelector('.card-inner');
+    if (!cardInner) return; // Should not happen
+
     // 1. Trigger the flip animation
-    cardElement.classList.add('flipped');
+    cardInner.classList.add('flipped');
 
     // 2. Populate the front face
     const frontFace = cardElement.querySelector('.card-face--front');

@@ -8,5 +8,5 @@
     -   Apply necessary code changes to resolve the issue.
 4.  [x] **Task 4: Validation:**
     -   Manually verify that cards can be flipped correctly.
-5.  [ ] **Task 5: Git:**
+5.  [x] **Task 5: Git:**
     -   Commit changes locally (do not push until requested).
