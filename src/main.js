@@ -58,6 +58,10 @@ function resetApp() {
     if (existingNarrative) {
         existingNarrative.remove();
     }
+    const existingSummary = document.querySelector('.spread-summary');
+    if (existingSummary) {
+        existingSummary.remove();
+    }
     updateStatus('請選擇牌陣，然後點擊「抽牌」開始。');
 
     // Manage button visibility
