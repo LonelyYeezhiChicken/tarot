@@ -1,234 +1,261 @@
 :root {
-    --background-color: #1a1a1d;
-    --primary-text-color: #c5c6c7;
-    --secondary-text-color: #8f8f8f;
-    --accent-color: #61dafb;
-    --card-background: #2a2a2e;
-    --card-border-color: #4f4f51;
-    --button-background: #4f4f51;
-    --button-hover-background: #6b6b6e;
+  --background-color: #1a1a1d;
+  --primary-text-color: #c5c6c7;
+  --secondary-text-color: #8f8f8f;
+  --accent-color: #61dafb;
+  --card-background: #2a2a2e;
+  --card-border-color: #4f4f51;
+  --button-background: #4f4f51;
+  --button-hover-background: #6b6b6e;
+  --mystic-purple: rgba(120, 80, 200, 0.35);
 }
 
 body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
-    background-color: var(--background-color);
-    color: var(--primary-text-color);
-    margin: 0;
-    padding: 20px;
-    display: flex;
-    justify-content: center;
-    align-items: flex-start;
-    min-height: 100vh;
+  font-family:
+    -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu",
+    "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+
+  /* 背景：深色 + 深紫 + 煙霧感 */
+  background:
+        /* 主空間漸層（修正後：紫色更暗、更收斂） */
+    radial-gradient(
+      circle at top center,
+      rgba(80, 50, 120, 0.25) 0%,
+      /* 原本太亮 → 降亮度 + 降 alpha */ rgba(30, 25, 45, 0.85) 35%,
+      /* 更快進入暗場 */ rgba(10, 10, 15, 1) 70%
+    ),
+    /* 煙霧紋理層（保持不動） */
+    repeating-radial-gradient(
+        circle,
+        rgba(255, 255, 255, 0.012),
+        rgba(255, 255, 255, 0.012) 1px,
+        transparent 1px,
+        transparent 6px
+      );
+
+  color: var(--primary-text-color);
+  margin: 0;
+  padding: 20px;
+
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  min-height: 100vh;
 }
 
 .app-container {
-    width: 100%;
-    max-width: 1200px;
-    text-align: center;
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.55),
+    rgba(0, 0, 0, 0.35) 60%,
+    rgba(0, 0, 0, 0.15)
+  );
+  border-radius: 16px;
+  padding: 2rem 1.5rem;
 }
 
 .app-header h1 {
-    font-weight: 300;
-    font-size: 2.5rem;
-    color: var(--primary-text-color);
-    margin-bottom: 2rem;
+  font-weight: 300;
+  font-size: 2.5rem;
+  color: var(--primary-text-color);
+  margin-bottom: 2rem;
 }
 
 .controls {
-    margin-bottom: 2rem;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 1rem;
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
 }
 
 .spread-selection label {
-    margin: 0 0.5rem;
-    cursor: pointer;
+  margin: 0 0.5rem;
+  cursor: pointer;
 }
 
 .button {
-    padding: 10px 20px;
-    font-size: 1rem;
-    cursor: pointer;
-    background-color: var(--button-background);
-    color: var(--primary-text-color);
-    border: 1px solid var(--card-border-color);
-    border-radius: 5px;
-    transition: background-color 0.3s ease;
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+  background-color: var(--button-background);
+  color: var(--primary-text-color);
+  border: 1px solid var(--card-border-color);
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
 }
 
 .button:hover {
-    background-color: var(--button-hover-background);
+  background-color: var(--button-hover-background);
 }
 
 .button:disabled {
-    cursor: not-allowed;
-    opacity: 0.5;
+  cursor: not-allowed;
+  opacity: 0.5;
 }
 
 .reading {
-    min-height: 400px;
+  min-height: 400px;
 }
 
 .status-area {
-    margin-bottom: 2rem;
-    font-size: 1.2rem;
-    color: var(--secondary-text-color);
-    min-height: 30px;
+  margin-bottom: 2rem;
+  font-size: 1.2rem;
+  color: var(--secondary-text-color);
+  min-height: 30px;
 }
 
 .card-display-area {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
 }
 
 /* Individual Card Styling */
 .card {
-    width: 150px;
-    height: 250px;
-    position: relative;
-    cursor: pointer; /* Cursor remains on the outer card for click */
-    perspective: 1000px; /* For 3D flip effect */
+  width: 150px;
+  height: 250px;
+  position: relative;
+  cursor: pointer; /* Cursor remains on the outer card for click */
+  perspective: 1000px; /* For 3D flip effect */
 }
 
 .card-inner {
-    width: 100%;
-    height: 100%;
-    position: relative;
-    transform-style: preserve-3d;
-    transition: transform 0.6s;
-    transform: translateY(20px); /* Initial position for animation */
+  width: 100%;
+  height: 100%;
+  position: relative;
+  transform-style: preserve-3d;
+  transition: transform 0.6s;
+  transform: translateY(20px); /* Initial position for animation */
 }
 
 .card-inner.flipped {
-    transform: rotateY(180deg);
+  transform: rotateY(180deg);
 }
 
 .card-face {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    backface-visibility: hidden;
-    border-radius: 10px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    box-sizing: border-box;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
 }
 
 .card-face--back {
-    background-color: var(--card-background);
-    border: 2px solid var(--card-border-color);
-    /* Simple pattern for card back */
-    background-image: repeating-linear-gradient(
-        45deg,
-        rgba(255,255,255,0.05),
-        rgba(255,255,255,0.05) 10px,
-        transparent 10px,
-        transparent 20px
-    );
+  background-color: var(--card-background);
+  border: 2px solid var(--card-border-color);
+  /* Simple pattern for card back */
+  background-image: repeating-linear-gradient(
+    45deg,
+    rgba(255, 255, 255, 0.05),
+    rgba(255, 255, 255, 0.05) 10px,
+    transparent 10px,
+    transparent 20px
+  );
 }
 
 .card-face--front {
-    background-color: var(--card-background);
-    border: 2px solid var(--accent-color);
-    transform: rotateY(180deg);
-    font-size: 1rem;
-    flex-direction: column;
-    padding: 10px;
+  background-color: var(--card-background);
+  border: 2px solid var(--accent-color);
+  transform: rotateY(180deg);
+  font-size: 1rem;
+  flex-direction: column;
+  padding: 10px;
 }
 
 .card-face--front img {
-    max-width: 90%;
-    max-height: 70%;
-    border-radius: 5px;
+  max-width: 90%;
+  max-height: 70%;
+  border-radius: 5px;
 }
 
 .card-face--front.reversed img {
-    transform: rotate(180deg);
+  transform: rotate(180deg);
 }
 
 .card-narrative {
-    margin-top: 2rem;
-    text-align: left;
-    max-width: 600px;
-    margin-left: auto;
-    margin-right: auto;
-    background: var(--card-background);
-    padding: 1.5rem;
-    border-radius: 8px;
-    border: 1px solid var(--card-border-color);
+  margin-top: 2rem;
+  text-align: left;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  background: var(--card-background);
+  padding: 1.5rem;
+  border-radius: 8px;
+  border: 1px solid var(--card-border-color);
 }
 
 .card-narrative h3 {
-    color: var(--accent-color);
+  color: var(--accent-color);
 }
 
 @media (max-width: 600px) {
-    .app-header h1 {
-        font-size: 2rem;
-    }
+  .app-header h1 {
+    font-size: 2rem;
+  }
 
-    .controls {
-        flex-direction: column;
-    }
+  .controls {
+    flex-direction: column;
+  }
 
-    .card {
-        width: 100px;
-        height: 167px;
-    }
+  .card {
+    width: 100px;
+    height: 167px;
+  }
 }
 
 .card-emoji {
-    font-size: 3rem;
-    text-align: center;
-    margin-bottom: 0.5rem;
+  font-size: 3rem;
+  text-align: center;
+  margin-bottom: 0.5rem;
 }
 
 .card-name {
-    font-size: 1rem;
-    color: var(--accent-color);
-    font-weight: bold;
-    margin-bottom: 0.5rem;
-    text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+  font-size: 1rem;
+  color: var(--accent-color);
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
 }
 
 .spread-summary {
-    margin-top: 2rem;
-    text-align: left;
-    max-width: 600px;
-    margin-left: auto;
-    margin-right: auto;
-    background: var(--card-background);
-    padding: 1.5rem;
-    border-radius: 8px;
-    border: 1px solid var(--accent-color);
+  margin-top: 2rem;
+  text-align: left;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  background: var(--card-background);
+  padding: 1.5rem;
+  border-radius: 8px;
+  border: 1px solid var(--accent-color);
 }
 
 .spread-summary h3 {
-    color: var(--accent-color);
-    text-align: center;
-    margin-bottom: 1rem;
+  color: var(--accent-color);
+  text-align: center;
+  margin-bottom: 1rem;
 }
 
 .spread-summary p {
-    white-space: pre-wrap; /* Preserve newlines from the summary text */
+  white-space: pre-wrap; /* Preserve newlines from the summary text */
 }
 
 #meditation-prompt {
-    font-size: 1.8rem;
-    font-weight: bold;
-    color: var(--accent-color);
-    margin-top: 2rem;
-    text-align: center;
-    background: var(--card-background);
-    padding: 1.5rem;
-    border-radius: 8px;
-    border: 1px solid var(--accent-color);
-    max-width: 600px;
-    margin-left: auto;
-    margin-right: auto;
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: var(--accent-color);
+  margin-top: 2rem;
+  text-align: center;
+  background: var(--card-background);
+  padding: 1.5rem;
+  border-radius: 8px;
+  border: 1px solid var(--accent-color);
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
 }
