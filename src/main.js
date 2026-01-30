@@ -149,10 +149,6 @@ function renderSpreadLayout(spreadDefinition) {
             </div>
         `;
         
-        const cardInner = cardElement.querySelector('.card-inner');
-        cardInner.classList.add('card--animated'); // Add animation class to inner element
-        cardInner.style.animationDelay = `${index * 0.1}s`; // Staggered animation
-        
         cardElement.addEventListener('click', handleCardClick);
         app.cardDisplayArea.appendChild(cardElement);
     });
