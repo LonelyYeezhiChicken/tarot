@@ -214,7 +214,7 @@ function handleCardClick(event) {
 
     // 2. Populate the front face
     const frontFace = cardElement.querySelector('.card-face--front');
-    const imagePath = `../assets/images/cards/${drawnCard.card.id}.jpg`;
+    const imagePath = `assets/images/cards/${drawnCard.card.id}.jpg`;
     const cardName = drawnCard.card.name['zh-TW'] || drawnCard.card.name['en-US'];
     frontFace.innerHTML = `
         <div class="card-emoji">${drawnCard.card.emoji}</div>
