@@ -139,14 +139,19 @@ function renderSpreadLayout(spreadDefinition) {
     
     spreadDefinition.positions.forEach((position, index) => {
         const cardElement = document.createElement('div');
-        cardElement.className = 'card card--animated'; // Add animation class
+        cardElement.className = 'card';
         cardElement.dataset.index = index;
-        cardElement.style.animationDelay = `${index * 0.1}s`; // Staggered animation
 
         cardElement.innerHTML = `
-            <div class="card-face card-face--back"></div>
-            <div class="card-face card-face--front"></div>
+            <div class="card-inner">
+                <div class="card-face card-face--back"></div>
+                <div class="card-face card-face--front"></div>
+            </div>
         `;
+        
+        const cardInner = cardElement.querySelector('.card-inner');
+        cardInner.classList.add('card--animated'); // Add animation class to inner element
+        cardInner.style.animationDelay = `${index * 0.1}s`; // Staggered animation
         
         cardElement.addEventListener('click', handleCardClick);
         app.cardDisplayArea.appendChild(cardElement);
