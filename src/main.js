@@ -139,8 +139,9 @@ function renderSpreadLayout(spreadDefinition) {
     
     spreadDefinition.positions.forEach((position, index) => {
         const cardElement = document.createElement('div');
-        cardElement.className = 'card';
+        cardElement.className = 'card card--animated'; // Add animation class
         cardElement.dataset.index = index;
+        cardElement.style.animationDelay = `${index * 0.1}s`; // Staggered animation
 
         cardElement.innerHTML = `
             <div class="card-face card-face--back"></div>
