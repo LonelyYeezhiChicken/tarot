@@ -12,8 +12,8 @@
     -   Update the data paths to be relative to the root.
 5.  [x] **Task 5: Remove the `public` directory:**
     -   Delete the now-empty `public` directory.
-6.  [ ] **Task 6: Validation:**
+6.  [x] **Task 6: Validation:**
     -   Manually verify that the site works correctly locally.
-7.  [ ] **Task 7: Git:**
+7.  [x] **Task 7: Git:**
     -   Commit and push the changes to the `main` branch.
     -   Verify that the GitHub Pages site is updated and working correctly.

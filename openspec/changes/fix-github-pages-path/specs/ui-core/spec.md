@@ -1,6 +1,6 @@
 # ui-core Specification
 
-## MODIFIED Requirements
+## ADDED Requirements
 
 ### Requirement: HTML Structure and Entry Point
 The application SHALL use `index.html` as its entry point.
