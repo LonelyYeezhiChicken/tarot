@@ -100,6 +100,7 @@ body {
     position: relative;
     transform-style: preserve-3d;
     transition: transform 0.6s;
+    transform: translateY(20px); /* Initial position for animation */
 }
 
 .card-inner.flipped {
@@ -234,7 +235,6 @@ body {
 /* Card appearance animation */
 .card--animated {
     opacity: 0;
-    transform: translateY(20px);
     animation: fade-in-up 0.5s ease-out forwards;
 }
 
