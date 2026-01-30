@@ -134,7 +134,6 @@ body {
 .card-face--front {
     background-color: var(--card-background);
     border: 2px solid var(--accent-color);
-    transform: rotateY(180deg);
     font-size: 1rem;
     flex-direction: column;
     padding: 10px;
