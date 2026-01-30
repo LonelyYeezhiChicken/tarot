@@ -296,26 +296,32 @@ function handleDraw() {
 
     updateStatus("洗牌中..."); // UI Skill 10
 
+    // Display meditation prompt
+    updateStatus("請閉上眼睛，冥想您的問題... (3秒)"); // New meditation prompt
+
     // Manage button visibility and disable controls
     app.drawButton.style.display = 'none';
     app.restartButton.style.display = 'none'; // Hide restart until draw is complete
     app.drawButton.disabled = true;
     app.spreadSelection.querySelectorAll('input').forEach(input => input.disabled = true);
     
-    // Simulate shuffling delay
+    // Simulate meditation delay (3 seconds)
     setTimeout(() => {
-        // 1. Draw cards and save to state
-        const numCardsToDraw = spreadDefinition.positions.length;
-        currentReading.drawnCards = drawCards(numCardsToDraw);
+        // Simulate shuffling delay
+        setTimeout(() => {
+            // 1. Draw cards and save to state
+            const numCardsToDraw = spreadDefinition.positions.length;
+            currentReading.drawnCards = drawCards(numCardsToDraw);
 
-        // 2. Render the layout
-        renderSpreadLayout(spreadDefinition);
+            // 2. Render the layout
+            renderSpreadLayout(spreadDefinition);
 
-        // 3. Update status and show restart button
-        updateStatus("請點擊卡牌來揭示。"); // UI Skill 10
-        app.restartButton.style.display = 'inline-block';
+            // 3. Update status and show restart button
+            updateStatus("請點擊卡牌來揭示。"); // UI Skill 10
+            app.restartButton.style.display = 'inline-block';
 
-    }, 1000); // 1-second shuffle
+        }, 1000); // 1-second shuffle
+    }, 3000); // 3-second meditation
 }
 
 

@@ -211,3 +211,18 @@ body {
 .spread-summary p {
     white-space: pre-wrap; /* Preserve newlines from the summary text */
 }
+
+#meditation-prompt {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: var(--accent-color);
+    margin-top: 2rem;
+    text-align: center;
+    background: var(--card-background);
+    padding: 1.5rem;
+    border-radius: 8px;
+    border: 1px solid var(--accent-color);
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
