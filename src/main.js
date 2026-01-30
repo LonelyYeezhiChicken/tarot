@@ -244,7 +244,7 @@ function handleCardClick(event) {
     renderNarrative(drawnCard, currentReading.spread.positions[index]);
 
     // 5. Check if the reading is complete (Task 9)
-    const flippedCards = document.querySelectorAll('.card.flipped').length;
+    const flippedCards = document.querySelectorAll('.card-inner.flipped').length;
     if (flippedCards === currentReading.drawnCards.length) {
         updateStatus("您的占卜已完成。");
         const summary = generateSpreadSummary(currentReading.drawnCards, currentReading.spread);
